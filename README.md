@@ -2,6 +2,11 @@
 
 Python-based data analysis projects using pandas, matplotlib, and Jupyter Notebook.
 
+## Data Sources
+- Online Retail: [https://www.kaggle.com/datasets/carrie1/ecommerce-data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- Netflix Titles: https://www.kaggle.com/datasets/shivamb/netflix-shows
+- Tokyo Airbnb: https://insideairbnb.com/get-the-data/
+
 ## Projects
 
 ### 🗾 Tokyo Airbnb Analysis
