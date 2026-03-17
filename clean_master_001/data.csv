@@ -1,9 +1,0 @@
-id,quantity,price,remark
-1,10 pcs,12.5,ok
-2,5pcs,8-10,fast
-3,3 x 4,20,bulk
-4,20-30 pcs,≈15,estimate
-5,50%,free,discount
-6,>=100 pcs,200,large
-7,,30,missing
-8,abc,error,error
