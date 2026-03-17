@@ -1,8 +1,0 @@
-id,date,remark
-1,2024-01-02,iso
-2,2024/01/02,slash
-3,01-02-2024,us
-4,2024.1.2,dot
-5,unknown,invalid
-6,,missing
-7,error,invalid
