@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "price": "in_stock",
+        "stock": "in_stock",
+        "date": "in_stock",
+        "remark": "ok"
+    },
+    {
+        "id": "2",
+        "price": "in_stock",
+        "stock": "out_of_stock",
+        "date": "in_stock",
+        "remark": "eur"
+    },
+    {
+        "id": "3",
+        "price": "out_of_stock",
+        "stock": "in_stock",
+        "date": "in_stock",
+        "remark": "estimate"
+    }
+]

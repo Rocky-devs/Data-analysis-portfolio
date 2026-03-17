@@ -1,0 +1,9 @@
+id,price,remark
+1,$12.5,usd
+2,€10-12,eur
+3,≈20,estimate
+4,free,promo
+5,0,zero
+6,12 USD,text
+7,,missing
+8,error,invalid

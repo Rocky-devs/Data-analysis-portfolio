@@ -1,0 +1,4 @@
+id,price,stock,date,remark
+1,$12.5,available,2024/01/02,ok
+2,€10-12,out,01-02-2024,eur
+3,≈20,yes,2024.1.2,estimate

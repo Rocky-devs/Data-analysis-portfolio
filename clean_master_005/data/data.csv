@@ -1,0 +1,6 @@
+uid,total_price,qty,created_at,note
+o1,$10-12,3,2024/01/02,ok
+o2,20,2,2024-01-02,normal
+o3,,1,,missing_price
+o4,error,abc,unknown,bad_row
+o5,0,0,2024-13-01,zero

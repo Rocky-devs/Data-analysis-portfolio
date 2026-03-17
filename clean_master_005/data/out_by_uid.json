@@ -1,0 +1,68 @@
+{
+    "o3": {
+        "rownum": 4,
+        "row": {
+            "uid": "o3",
+            "total_price": "",
+            "qty": "1",
+            "created_at": "",
+            "note": "missing_price"
+        },
+        "errors": [
+            {
+                "field": "total_price",
+                "raw": "",
+                "cleaner": "clean_price"
+            },
+            {
+                "field": "created_at",
+                "raw": "",
+                "cleaner": "clean_date"
+            }
+        ]
+    },
+    "o4": {
+        "rownum": 5,
+        "row": {
+            "uid": "o4",
+            "total_price": "error",
+            "qty": "abc",
+            "created_at": "unknown",
+            "note": "bad_row"
+        },
+        "errors": [
+            {
+                "field": "total_price",
+                "raw": "error",
+                "cleaner": "clean_price"
+            },
+            {
+                "field": "qty",
+                "raw": "abc",
+                "cleaner": "clean_quantity"
+            },
+            {
+                "field": "created_at",
+                "raw": "unknown",
+                "cleaner": "clean_date"
+            }
+        ]
+    },
+    "o5": {
+        "rownum": 6,
+        "row": {
+            "uid": "o5",
+            "total_price": "0",
+            "qty": "0",
+            "created_at": "2024-13-01",
+            "note": "zero"
+        },
+        "errors": [
+            {
+                "field": "created_at",
+                "raw": "2024-13-01",
+                "cleaner": "clean_date"
+            }
+        ]
+    }
+}

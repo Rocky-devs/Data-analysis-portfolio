@@ -1,0 +1,11 @@
+order_id,customer_name,qty,unit_price_usd,order_date,discount_rate
+2001,Alice,10 pcs,"$1,200",2024/01/05,10%
+2002,Bob,5 units,"USD $350.50",2024-02-10,0.15
+2003,Charlie,approx 3,"$89.99",2024.03.15,5%
+2004,David,2x4,$invalid,unknown,—
+2005,Eva,>=20,"$2,500",2024/05/01,
+2006,Frank,7-9,"≈$1,750 usd",2024-06-20,15%
+2007,Grace,error,"$3,000",error,abc
+2008,Helen,12 pcs,$450.00,2024-08-05,20%
+2009,Ivan,1,$99,2024/09/01,0%
+2010,Jack,,usd 1200,2024/10/12,25%

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "price": 12.5,
+        "remark": "usd"
+    },
+    {
+        "id": "2",
+        "price": 11.0,
+        "remark": "eur"
+    },
+    {
+        "id": "3",
+        "price": 20.0,
+        "remark": "estimate"
+    },
+    {
+        "id": "4",
+        "price": null,
+        "remark": "promo"
+    },
+    {
+        "id": "5",
+        "price": 30.0,
+        "remark": "cny"
+    },
+    {
+        "id": "6",
+        "price": 12.0,
+        "remark": "text"
+    },
+    {
+        "id": "7",
+        "price": null,
+        "remark": "missing"
+    },
+    {
+        "id": "8",
+        "price": null,
+        "remark": "invalid"
+    }
+]

@@ -1,0 +1,7 @@
+order_id,customer_name,qty,unit_price_usd,order_date,discount_rate
+6001,Alice,10,100,2024-01-01,10%
+6002,Bob,5,50,2024-01-01,0.15
+6003,Charlie,3,30,2024-01-01,15 %
+6004,David,8,80,2024-01-01,-
+6005,Eva,20,200,2024-01-01,abc
+6006,Frank,7,70,2024-01-01,0

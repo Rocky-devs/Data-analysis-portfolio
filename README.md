@@ -18,5 +18,13 @@ Explored Netflix's content library to understand their programming strategy.
 - Mapped content age ratings to target audience segments
 - **Tools:** pandas, matplotlib, Jupyter Notebook
 
+### 🛒 E-commerce Order Analysis
+Analyzed 500k+ online retail transactions to understand revenue distribution and product performance.
+- Cleaned transaction data and converted price/quantity to numeric values
+- Calculated revenue and compared revenue contribution by country (excluding UK)
+- Analyzed monthly sales trends using pandas datetime tools
+- Identified top 10 bestselling products by quantity sold
+- **Tools:** pandas, matplotlib, Jupyter Notebook
+
 ## Skills
 `Python` `pandas` `Data Cleaning` `Exploratory Data Analysis` `Data Visualization`

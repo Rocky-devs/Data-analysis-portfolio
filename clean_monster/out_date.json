@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "date": "2024-01-02",
+        "remark": "iso"
+    },
+    {
+        "id": "2",
+        "date": "2024-01-02",
+        "remark": "slash"
+    },
+    {
+        "id": "3",
+        "date": "2024-01-02",
+        "remark": "us"
+    },
+    {
+        "id": "4",
+        "date": "2024-01-02",
+        "remark": "dot"
+    },
+    {
+        "id": "5",
+        "date": null,
+        "remark": "invalid"
+    },
+    {
+        "id": "6",
+        "date": null,
+        "remark": "missing"
+    },
+    {
+        "id": "7",
+        "date": null,
+        "remark": "invalid"
+    }
+]

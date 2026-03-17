@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "quantity": 10.0,
+    "price": 12.5,
+    "remark": "ok"
+  },
+  {
+    "id": "2",
+    "quantity": 5.0,
+    "price": 9.0,
+    "remark": "fast"
+  },
+  {
+    "id": "3",
+    "quantity": 12.0,
+    "price": 20.0,
+    "remark": "bulk"
+  },
+  {
+    "id": "4",
+    "quantity": 25.0,
+    "price": 15.0,
+    "remark": "estimate"
+  },
+  {
+    "id": "5",
+    "quantity": 0.5,
+    "price": null,
+    "remark": "discount"
+  },
+  {
+    "id": "6",
+    "quantity": null,
+    "price": 200.0,
+    "remark": "large"
+  },
+  {
+    "id": "7",
+    "quantity": null,
+    "price": 30.0,
+    "remark": "missing"
+  },
+  {
+    "id": "8",
+    "quantity": null,
+    "price": null,
+    "remark": "error"
+  }
+]

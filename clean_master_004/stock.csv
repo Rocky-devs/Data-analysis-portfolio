@@ -1,0 +1,12 @@
+id,stock,remark
+1,YES,confirm
+2,no,deny
+3,true,boolean
+4,false,boolean
+5,Y,short
+6,N,short
+7,1,numeric
+8,0,numeric
+9,unknown,invalid
+10,,missing
+11,error,invalid
