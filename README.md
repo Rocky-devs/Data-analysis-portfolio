@@ -15,6 +15,7 @@ Interactive dashboard analyzing 300 businesses across 5 industries in New York C
 - Visualized business density, rating distributions, and review volume on an interactive map
 - Key finding: restaurants dominate review volume but show the most stable ratings (4.3–4.6); real estate and dental clinics show the widest quality variance
 - - **[Live Demo →](https://data-analysis-portfolio-81dm.onrender.com)**
+  - "Live demo may take ~30s to load on first visit (free hosting)"
 - Tools: `pandas` `Plotly` `Dash`
 
 ---
