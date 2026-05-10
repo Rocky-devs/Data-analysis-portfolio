@@ -3,6 +3,7 @@
 Interactive dashboard analyzing 300 businesses across 5 industries in New York City.
 
 **[Live Demo →](https://data-analysis-portfolio-81dm.onrender.com)**
+"Live demo may take ~30s to load on first visit (free hosting)"
 
 ## Overview
 Built with Plotly Dash, this dashboard allows users to filter by industry and explore business distribution, rating patterns, and review volume across NYC.
