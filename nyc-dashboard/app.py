@@ -26,6 +26,7 @@ df["reviews"] = df["reviews"].fillna(0)
 
 # ── App ───────────────────────────────────────────
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
 
